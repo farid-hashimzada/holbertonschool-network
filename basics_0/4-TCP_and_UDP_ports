@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Active Internet connections (only servers)
+netstat -n
